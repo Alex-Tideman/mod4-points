@@ -5,7 +5,7 @@ var Student = require('../models/student')
 var sixteenOhSix = ["ab255","kccrs","Jeff-Duke", "bcgodfrey91","bretthev"
                     ,"madison-kerndt","kerrd89","kylem038","07nguyenpaul"
                     ,"sikemausa","Peter-Springer","swanie21","mjvalade","Casey1449"
-                    ,"blake-worsley","Alex-Tideman","stevekinney","brittanystoroz"]
+                    ,"blakeworsley","Alex-Tideman","stevekinney","brittanystoroz"]
 var teachers = ["stevekinney","brittanystoroz","Alex-Tideman"]
 
 router.use(methodOverride('X-HTTP-Method-Override'))
